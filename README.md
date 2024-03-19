@@ -5,7 +5,7 @@ This will serve as a hobbyist web development experiment. I might write some thi
 
 ### Authors
 Sean Selander
-~[]https://github.com/seanselander/seanselander.github.io/blob/main/unnamed.jpg?raw=true
+![https://github.com/seanselander/seanselander.github.io/blob/main/unnamed.jpg?raw=true]
 
 ### Version History
 * 0.1
