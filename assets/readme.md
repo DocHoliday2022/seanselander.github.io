@@ -1,3 +1,3 @@
 ## Assets Folder
-# Description
+#### Description
 Holds all of the photos used in the website.
