@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Charm:wght@400;700&display=swap')
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Charm', sans-serif;
+}
+
+.container(
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-alignL center;
+	margin: 30px 20px 0 20px
+)
+
+.container . heading{
+ width: 50%
+ padding-bottom: 50px
+}
+
+.container . heading h3{
+	font-size : 3em;
+	font-weight : bolder;
+	padding-bottom : 10px
+	border-bottom : 3px solid #222;
+}
+
+.container .box{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-content: center;
+]
+
+.container .box .dream{
+	display:flex;
+	flex-direction:column;
+	width: 32.5%
+}
